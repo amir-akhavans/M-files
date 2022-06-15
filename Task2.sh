@@ -1,6 +1,6 @@
 #! /bin/bash
-env > env_vars.json
-env | grep PLACEHOLDER > PLACEHOLDER-vars.json
+env > env_vars.txt
+env | grep PLACEHOLDER > PLACEHOLDER-vars.txt
 git init
 git add .
 git commit -m "PLACEHOLDER Variables Selected"
