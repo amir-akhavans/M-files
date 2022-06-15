@@ -1,8 +1,10 @@
 #! /bin/bash
 env > env_vars.txt
 jq -Rs '[ split("\n")[] | select(length > 0) 
-          | split(",") | {FrameworkName: .[0], VersionName: .[1]} ]' env_vars.txt > 1.json
+          | split(",") | {FrameworkName: .[0], VersionName: .[1]} ]' env_vars.txt > env_vars.json
 env | grep PLACEHOLDER > PLACEHOLDER-vars.txt
+jq -Rs '[ split("\n")[] | select(length > 0) 
+          | split(",") | {FrameworkName: .[0], VersionName: .[1]} ]' env_vars.txt >PLACEHOLDER-vars.json
 git init
 git add .
 git commit -m "PLACEHOLDER Variables Selected"

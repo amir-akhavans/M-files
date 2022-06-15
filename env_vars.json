@@ -1,0 +1,138 @@
+[
+  {
+    "FrameworkName": "TERM_PROGRAM=vscode",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "TERM=xterm-256color",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "SHELL=/bin/zsh",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "TMPDIR=/var/folders/zz/zf87mjz92x58nqgspsxm_j0r0000gp/T/",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "CONDA_SHLVL=1",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "TERM_PROGRAM_VERSION=1.68.0",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "CONDA_PROMPT_MODIFIER=(base) ",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "ORIGINAL_XDG_CURRENT_DESKTOP=undefined",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "USER=macos",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "COMMAND_MODE=unix2003",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "CONDA_EXE=/Users/macos/opt/anaconda3/bin/conda",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.89Lc7pFnXc/Listeners",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "__CF_USER_TEXT_ENCODING=0x1F6:0x0:0x2",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "_CE_CONDA=",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "PATH=/usr/local/sbin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/sbin:/Users/macos/opt/anaconda3/bin:/Users/macos/opt/anaconda3/condabin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "_=/usr/bin/env",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "CONDA_PREFIX=/Users/macos/opt/anaconda3",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "__CFBundleIdentifier=com.microsoft.VSCode",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "PWD=/Users/macos/Desktop/test/M-files/Bash",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "LANG=en_GB.UTF-8",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "VSCODE_GIT_ASKPASS_EXTRA_ARGS=--ms-enable-electron-run-as-node",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "XPC_FLAGS=0x0",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "_CE_M=",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "XPC_SERVICE_NAME=0",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "SHLVL=2",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "HOME=/Users/macos",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "VSCODE_GIT_ASKPASS_MAIN=/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-main.js",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "CONDA_PYTHON_EXE=/Users/macos/opt/anaconda3/bin/python",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "LOGNAME=macos",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "VSCODE_GIT_IPC_HANDLE=/var/folders/zz/zf87mjz92x58nqgspsxm_j0r0000gp/T/vscode-git-a194bbfcb0.sock",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "CONDA_DEFAULT_ENV=base",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "GIT_ASKPASS=/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "VSCODE_GIT_ASKPASS_NODE=/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper",
+    "VersionName": null
+  },
+  {
+    "FrameworkName": "COLORTERM=truecolor",
+    "VersionName": null
+  }
+]
