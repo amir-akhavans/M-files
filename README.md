@@ -1,4 +1,4 @@
-## Simple Project showing operating system environmet variable
+## Simple bash script printing operating system environmet variables
 
 This simple bash script extracts the operating system's environment variables and chooses the variables including the world `PLACEHOLDER`, also convertes the results to json format. The environment variables and the selected variables are seperated in different files accordingly. To depict the outputs distinctly, I pushed them all into this repository.
 
